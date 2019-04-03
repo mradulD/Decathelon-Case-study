@@ -1,0 +1,2 @@
+# Decathelon-Case-study
+ Imagine there exists a platform A which allows users to a) book playgrounds and sports pitches b) find people who play the same sport in the same city c) buy equipment to play their sports Build 3 reports in Excel/Google Sheets which you think would be key to track the success of this platform. You can use dummy data to populate the same. Brownie points for those who can add visualizations for these reports as well. Upload your answer to Google Drive and share the link in the answer below.
